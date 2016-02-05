@@ -1,0 +1,28 @@
+name: Seattle Canning Co.
+favicon: null
+layout_spectrum: 0.6243713267613202
+typography_spectrum: 0.014624098548665643
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2873387180734426
+  lightness: 0.5360521671827883
+  saturation: 0.16205614525824785
+  rhythmicContrast: 0.2587793651036918
+purpose: []
